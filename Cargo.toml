@@ -1,0 +1,10 @@
+[package]
+name = "euler-7"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rug = "1.28"
+primal = "0.3.3"
+once_cell = "1.21.3"
+num-traits = "0.2.19"
